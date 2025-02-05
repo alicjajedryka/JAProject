@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\HistogramApp.Form1.resources
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\HistogramApp.Program.resources
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\histogramApp\histogramApp\bin\x64\Debug\net8.0-windows\histogramApp.exe
+C:\Users\hp\source\repos\histogramApp\histogramApp\bin\x64\Debug\net8.0-windows\histogramApp.deps.json
+C:\Users\hp\source\repos\histogramApp\histogramApp\bin\x64\Debug\net8.0-windows\histogramApp.runtimeconfig.json
+C:\Users\hp\source\repos\histogramApp\histogramApp\bin\x64\Debug\net8.0-windows\histogramApp.dll
+C:\Users\hp\source\repos\histogramApp\histogramApp\bin\x64\Debug\net8.0-windows\histogramApp.pdb
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.dll
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\refint\histogramApp.dll
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.pdb
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\histogramApp.genruntimeconfig.cache
+C:\Users\hp\source\repos\histogramApp\histogramApp\obj\x64\Debug\net8.0-windows\ref\histogramApp.dll
